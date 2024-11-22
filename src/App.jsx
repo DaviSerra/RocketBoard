@@ -77,7 +77,7 @@ const posts = [
         text: "Olá a todos 👋"
       },
       {
-        text: "Estou animado para compartilhar nosso novo produto. Foi um trabalho árduo, mas conseguimos. O nome do produto é SmartHome 🏠"
+        text: "Estou animado para compartilhar nosso novo produto. Foi um trabalho árduo, mas conseguimos. O nome do produto é SmartHome 🏠" 
       },
       {
         text: "👉",
