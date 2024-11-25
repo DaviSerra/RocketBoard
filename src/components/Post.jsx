@@ -16,7 +16,7 @@ export function Post({ author, publishedAt, content }) {
     const pubishedFormatted = format(publishedAt, "d 'de' LLLL 'de' yyyy 'às' HH:mm'h'", {
         locale: ptBR
     });
-
+ 
     const publishedDateRelativeToNow = formatDistanceToNow(publishedAt, {
         locale: ptBR,
         addSuffix: true
