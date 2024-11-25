@@ -87,10 +87,10 @@ const posts = [
         link: "#newproduct "
       },
       {
-        link: "  #smarthome "
+        link: "#smarthome "
       },
       {
-        link: " #innovation" 
+        link: "#innovation" 
       }
     ],
     publishedAt: new Date("2024-11-15 18:30:00")
