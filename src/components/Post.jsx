@@ -21,7 +21,7 @@ export function Post({ author, publishedAt, content }) {
         locale: ptBR,
         addSuffix: true
     });
-
+ 
     function handleCreateNewComment() {
         event.preventDefault();
         setComments([...comments, newCommentText]);
